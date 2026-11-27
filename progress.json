@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:51:15.897Z",
+  "generated_at": "2026-11-27T16:05:48.865Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -253,6 +253,19 @@
       "path": "problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems",
       "first_solved_at": "2026-11-27T15:51:16.279Z",
       "last_pushed_at": "2026-11-27T15:51:16.279Z",
+      "language": "python",
+      "lines": 39
+    },
+    "problem:1776": {
+      "kind": "problem",
+      "id": "1776",
+      "title": "Cholesky at Work: Triangular Solves, Log-Determinant and MVN Sampling",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1776",
+      "path": "problems/1776-cholesky-at-work-triangular-solves-log-determinant-and-mvn-sampling",
+      "first_solved_at": "2026-11-27T16:05:49.018Z",
+      "last_pushed_at": "2026-11-27T16:05:49.018Z",
       "language": "python",
       "lines": 39
     }
